@@ -40,13 +40,6 @@ const Home = () => {
                     </ul>
                 </div>
 
-
-
-                <div className="mt-8">
-                    <p className="text-gray-400">
-                        Stay tuned for updates and new features! If you have any questions, feel free to <a href="/aboutus" className="underline text-teal-300 hover:text-teal-400">contact us</a>.
-                    </p>
-                </div>
             </div>
         </div>
     );

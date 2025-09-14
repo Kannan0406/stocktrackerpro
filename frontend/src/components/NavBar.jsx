@@ -8,7 +8,6 @@ const menuItems = [
     { name: "Basic Financials", link: "/companybasicfinancials" },
     { name: "Profile", link: "/companyprofile" },
     { name: "News", link: "/news" },
-    { name: "About us", link: "/aboutus" },
 ];
 
 const NavBar = () => {
