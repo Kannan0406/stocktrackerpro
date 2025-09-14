@@ -1,4 +1,4 @@
-# Real-Time Stock Market Dashboard
+# StockTrackerPro
 
 ## Overview
 
